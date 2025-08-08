@@ -4,7 +4,7 @@ A sleek and accurate college predictor tool based on **JOSAA 2025 opening and cl
 
 ---
 
-<h1 align='center'><a target="_blank" href='https://sohanshanbhag16.github.io/JOSAA-College-Predictor/index.html' >Go to Website</a>➡️</h1>
+<h1 align='center'><a target="_blank" href='https://sohanshanbhag16.github.io/JOSAA-College-Predictor/ui/index.html' >Go to Website</a>➡️</h1>
 
 ---
 
