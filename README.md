@@ -4,6 +4,10 @@ A sleek and accurate college predictor tool based on **JOSAA 2025 opening and cl
 
 ---
 
+<h1 align='center'><a target="_blank" href='https://sohanshanbhag16.github.io/JOSAA-College-Predictor/index.html' >Go to Website</a>➡️</h1>
+
+---
+
 ## 🔍 Features
 
 - ✅ Predicts colleges based on JEE Main/Advanced rank
